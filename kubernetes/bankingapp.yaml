@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: bankingapp
-        image: vootlasaicharan/bankingapp:13
+        image: tejaskumar01/banking-app
         ports:
         - containerPort: 8080
   replicas: 1
